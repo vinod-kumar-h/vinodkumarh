@@ -2,7 +2,7 @@
 
 **Senior Front-End Engineer | 12+ years | Bengaluru, India**
 
-I build scalable, responsive web applications across healthcare analytics, enterprise SaaS, and legal technology. I'm currently at Norstella (Panalgo IHD), building modular analytics UIs, and I'm looking for Senior Front-End Engineer or Tech Lead roles in product-driven teams.
+I build scalable, responsive web applications across healthcare analytics, enterprise SaaS and legal technology. Expert in Angular, React, TypeScript and JavaScript (ES6+), with hands-on experience in micro-frontend architecture, REST API integration, AWS and Figma-to-code delivery. Recently at Norstella (Panalgo IHD), where I built modular analytics UIs and used AI-assisted workflows (Cursor, Claude, MCP) to speed up refactoring, code review and test generation. Proven mentor and collaborator who has led sprint planning, guided junior developers and worked closely with product and backend teams to improve application performance and quality. Seeking Senior Front-End Engineer or Tech Lead roles in product-driven teams.
 
 ## 🛠 Skills
 
